@@ -25,4 +25,10 @@
                 android:targetClass="com.android.systemui.tuner.NavBarActivity" />
         </Preference>
 
+        <com.octavi.lab.preferences.SystemSettingSwitchPreference
+            android:key="navigation_bar_arrow_keys"
+            android:title="@string/navigation_bar_arrow_keys_title"
+            android:summary="@string/navigation_bar_arrow_keys_summary"
+            android:defaultValue="false" />
+
 </PreferenceScreen>

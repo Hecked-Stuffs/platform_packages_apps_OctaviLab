@@ -130,6 +130,8 @@
     <string name="hardware_keys_double_tap_title">Double tap action</string>
     <string name="hardware_keys_category">Hardware keys</string>
     <string name="hardware_keys_disable_title">Disable keys</string>
+    <string name="navigation_bar_arrow_keys_title">IME arrows</string>
+    <string name="navigation_bar_arrow_keys_summary">Show arrow keys on navbar while typing</string>
 
     <!-- ANBI -->
     <string name="anbi_title">Accidental touch</string>
